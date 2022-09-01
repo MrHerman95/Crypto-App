@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+
+    <string name="symbols_template">%s / %s</string>
+    <string name="last_update_template">Last update time: %s</string>
+
+    <string name="slash">/</string>
+    <string name="price_label">Price:</string>
+    <string name="min_price_label">Daily minimum:</string>
+    <string name="max_price_label">Daily maximum:</string>
+    <string name="last_market_label">Last market:</string>
+    <string name="last_updated_label">Updated:</string>
+
+    <string name="crypto_iv_desc">Logo of cryptocurrency</string>
+</resources>
